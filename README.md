@@ -1,1 +1,1 @@
-imple text editor written in Python
+Simple lexer analyzer written in Python
