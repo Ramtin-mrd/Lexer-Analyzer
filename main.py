@@ -1,5 +1,4 @@
 from ply import lex
-import tkinter as tk
 
 
 # List of token names :
